@@ -1,13 +1,5 @@
 #include<iostream>
-/*
-enter the number ;9
 
-  *   *
- * * * *
-*   *   *
-
-
-*/
 using namespace std;
 int main()
 {
